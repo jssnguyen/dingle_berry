@@ -19,7 +19,7 @@ main > h1 {
   text-align: left
   font-size: 5em;
 
-  main > h2 {
-    text-align: left
-    font-size: 4em;
-}
+
+main > h2 {  
+  text-align: left
+  font-size: 4em;
